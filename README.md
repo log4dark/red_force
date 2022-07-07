@@ -1,2 +1,2 @@
-# Design Patterns
-Drop in Design Patterns
+# Java & Spring code piece
+Drop in Programming
